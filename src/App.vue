@@ -80,7 +80,6 @@ onMounted(getSuperheroes);
 </script>
 
 <style scoped>
-/* Votre style CSS personnalisé ici */
   .content{
     display: grid;
   }
